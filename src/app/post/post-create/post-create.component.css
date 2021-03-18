@@ -1,0 +1,17 @@
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 50%;
+}
+
+.example-full-width {
+  width: 100%;
+}
+mat-card {
+  width: 60%;
+  margin: auto;
+  margin-top: 50px;
+}
+input{
+  height: 40px;
+}
